@@ -6,9 +6,9 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 
 ## 📌 Topic-wise Progress
 
-- [x] **Arrays & Hash Maps**
-- [x] **Two Pointers & Sliding Window**
-- [x] **Linked Lists**
+- [] **Arrays & Hash Maps**
+- [] **Two Pointers & Sliding Window**
+- [] **Linked Lists**
 - [ ] **Stacks & Queues**
 - [ ] **Binary Search & Sorting**
 - [ ] **Trees & Binary Search Trees (BST)**
