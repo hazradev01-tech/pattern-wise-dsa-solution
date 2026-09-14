@@ -22,7 +22,6 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 - **Categorized Solutions:** Structured folder layout categorized by topic and data structure.
 - **Optimal Approaches:** Code solutions optimized for Time and Space Complexity.
 - **Consistency:** Regular practice from platforms like LeetCode, Codeforces, and GeeksforGeeks.
--
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
