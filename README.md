@@ -47,10 +47,12 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
