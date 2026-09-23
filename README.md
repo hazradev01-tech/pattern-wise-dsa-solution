@@ -30,6 +30,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | ------- |
 | [0007-reverse-integer](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0001-two-sum](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,5 +109,6 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
