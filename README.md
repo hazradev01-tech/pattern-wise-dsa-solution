@@ -42,6 +42,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0035-search-insert-position](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -110,5 +112,6 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
