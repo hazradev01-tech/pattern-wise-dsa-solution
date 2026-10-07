@@ -33,6 +33,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0048-rotate-image](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -64,6 +65,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -127,4 +129,8 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0048-rotate-image](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0073-set-matrix-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
