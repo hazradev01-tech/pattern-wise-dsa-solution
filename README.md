@@ -133,4 +133,12 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
