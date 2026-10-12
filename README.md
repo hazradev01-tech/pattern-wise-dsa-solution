@@ -89,6 +89,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0001-two-sum](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -107,6 +108,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | ------- |
 | [0015-3sum](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -136,9 +138,14 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
