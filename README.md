@@ -111,6 +111,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -140,6 +141,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
