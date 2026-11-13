@@ -108,6 +108,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0142-linked-list-cycle-ii) |
@@ -142,6 +143,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0206-reverse-linked-list) |
