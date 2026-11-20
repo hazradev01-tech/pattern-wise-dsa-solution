@@ -165,9 +165,15 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0125-valid-palindrome) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
