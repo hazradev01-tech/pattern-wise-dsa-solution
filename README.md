@@ -54,6 +54,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -91,6 +92,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0128-longest-consecutive-sequence](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -102,6 +104,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
