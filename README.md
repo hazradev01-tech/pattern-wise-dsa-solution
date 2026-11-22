@@ -45,6 +45,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0073-set-matrix-zeroes) |
@@ -88,6 +89,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0141-linked-list-cycle) |
@@ -104,6 +106,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
@@ -174,6 +177,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0125-valid-palindrome) |
 ## Bracket Sequences
 |  |
