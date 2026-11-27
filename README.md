@@ -58,6 +58,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0217-contains-duplicate](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1470-shuffle-the-array) |
@@ -96,6 +97,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0142-linked-list-cycle-ii](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
@@ -109,6 +111,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0049-group-anagrams](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
@@ -128,6 +131,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,4 +187,20 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
